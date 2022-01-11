@@ -1,6 +1,7 @@
 Hello! I am Yuanshun, Dong, a new Computer Engineering master student at UIUC. I am looking for an SWE/DS intern now. I am a solid software developer with extensive development experience in full-stack web development and data processing. My primary languages are Java/JavaScript/Python. I have a strong aptitude for learning new technologies and a proven track record of meeting aggressive goals. Feel free to chat with me and I'd be glad to discuss my abilities and background with you in more detail!
 
 [![Linkedin Badge](https://img.shields.io/badge/-YuanshunDong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dong-yuanshun/)](https://www.linkedin.com/in/dong-yuanshun/)
+[![Email Badge](https://img.shields.io/badge/Email-yd18%40illinois.edu-lightgrey)](yd18@illinois.edu)
 <!-- [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501) 
 ;[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
 ;[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
