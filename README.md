@@ -1,41 +1,46 @@
+<a href="https://ashstarry.github.io/">
+  <img src="./assets/profile-header.svg" alt="ashstarry — Small worlds. Playful tools. Open my personal desktop." width="100%" />
+</a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-YuanshunDong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dong-yuanshun/)](https://www.linkedin.com/in/dong-yuanshun/)
-[![Email Badge](https://img.shields.io/badge/Email-dongyuans@hotmail.com-lightgrey)](dongyuans@hotmail.com)
-<!-- [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501) 
-;[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-;[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-;[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)-->
+Hi, I'm **Shawn / ashstarry**. I make small tools and playful experiences for worlds, pictures, and words.
 
-## ⚡ Technologies
+**[Explore my personal desktop ↗](https://ashstarry.github.io/)** · [LinkedIn](https://www.linkedin.com/in/dong-yuanshun/) · [Email](mailto:dongyuans@hotmail.com)
 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=Vue.js)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon)
-![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-232F7E?style=flat-square&logo=IBM)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+## Things I've made
 
-<!--![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashstarry&hide=TeX&layout=compact)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://koyoi.fun/"><img src="./assets/koyoi.svg" alt="A tiny moonlit town, illustrated for Koyoi" width="100%" /></a>
+      <h3>Koyoi</h3>
+      <p>A living miniature town that responds to your words.</p>
+      <p><a href="https://koyoi.fun/">Explore the town ↗</a><br /><a href="https://github.com/ashstarry/echoing-green">Source code</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://wonderline.fun/"><img src="./assets/wonderline.svg" alt="A hand-drawn whale, illustrated for Wonderline" width="100%" /></a>
+      <h3>Wonderline</h3>
+      <p>Speak your ideas into a drawing, one stroke at a time.</p>
+      <p><a href="https://wonderline.fun/">Try the drawing board ↗</a><br /><a href="https://github.com/ashstarry/wonderline">Source code</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://ashstarry.github.io/callay-site/"><img src="./assets/callay.svg" alt="A word opening a book, illustrated for Callay" width="100%" /></a>
+      <h3>Callay</h3>
+      <p>A Mac input method with meanings and literary connections.</p>
+      <p><a href="https://ashstarry.github.io/callay-site/">Explore the input method ↗</a><br /><a href="https://github.com/ashstarry/callay-site">Source code</a></p>
+    </td>
+  </tr>
+</table>
 
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi) -->
+<sub>Callay's website includes an interactive demo. The input method itself runs on macOS.</sub>
+
+## My corner of the internet
+
+My [personal website](https://ashstarry.github.io/) is a Windows 95-inspired desktop. Open a project, move a window, or stay a little longer and play with the extras.
+
+I like turning a small “what if?” into something you can actually try.
+
+**Toolbox** · `JavaScript` · `TypeScript` · `React` · `Python` · `Swift`
+
+---
+
+<sub>Building what I love. Sharing what I make.</sub>
