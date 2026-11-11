@@ -30,17 +30,3 @@ Hi, I'm **Shawn / ashstarry**. I make small tools and playful experiences for wo
     </td>
   </tr>
 </table>
-
-<sub>Callay's website includes an interactive demo. The input method itself runs on macOS.</sub>
-
-## My corner of the internet
-
-My [personal website](https://ashstarry.github.io/) is a Windows 95-inspired desktop. Open a project, move a window, or stay a little longer and play with the extras.
-
-I like turning a small “what if?” into something you can actually try.
-
-**Toolbox** · `JavaScript` · `TypeScript` · `React` · `Python` · `Swift`
-
----
-
-<sub>Building what I love. Sharing what I make.</sub>
